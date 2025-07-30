@@ -1,0 +1,18 @@
+﻿@model ClinicDM.ViewModels.DoctorFilterVM
+
+<form method="get" class="mb-3">
+    <div class="row g-2 align-items-center">
+        <div class="col-auto">
+            <input asp-for="Id" type="text" class="form-control" placeholder="Search by ID" />
+        </div>
+        <div class="col-auto">
+            <input asp-for="FullName" type="text" class="form-control" placeholder="Search by Name" />
+        </div>
+        <div class="col-auto">
+            <input asp-for="PhoneNumber" type="text" class="form-control" placeholder="Search by Phone Number" />
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-secondary">Search</button>
+        </div>
+    </div>
+</form>

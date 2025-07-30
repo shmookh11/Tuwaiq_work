@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\helpers\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\helpers\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 195,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 34,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Program.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Program.cs",
+              "RelativeToolTip": "ClinicDM\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:37:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicDM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicDM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T17:34:53.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ClinicDM\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ClinicDM\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T17:35:29.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Helpers\\AdminSeeder.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Helpers\\AdminSeeder.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Helpers\\AdminSeeder.cs",
+              "RelativeToolTip": "ClinicDM\\Helpers\\AdminSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:31:00.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "ClinicDM\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAgwHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:30:25.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

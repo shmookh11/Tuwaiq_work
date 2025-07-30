@@ -1,0 +1,88 @@
+﻿@model PatientFilteredListVM
+
+@{
+    ViewData["Title"] = "Patients";
+}
+
+<h4 class="card-title">
+    Patients
+</h4>
+<div class="d-flex justify-content-between">
+    <h6 class="card-subtitle">
+        # Patients @Model.Data.Count
+    </h6>
+    <a asp-controller="Patient" asp-action="Create" class="btn btn-primary">
+        New Patient
+    </a>
+</div>
+<p>
+    @ViewData["CreatedBy"]
+    <br />
+    @ViewBag.CreatedBy
+</p>
+
+<partial name="_Filter" model="@Model.Filter" />
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">FullName</th>
+            <th scope="col">Gender</th>
+            <th scope="col">National Id</th>
+            <th scope="col">Email</th>
+            <th scope="col">Phone Number</th>
+            <th scope="col">Date of Birth</th>
+            <th scope="col">Age</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model.Data) {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.FullName</td>
+                <td>@p.Gender</td>
+                <td>@p.NationalId</td>
+                <td>@p.Email</td>
+                <td>@p.PhoneNumber</td>
+                <td>@p.DateOfBirth.ToShortDateString()</td>
+                <td>@p.Age</td>
+                <td>
+                    <a asp-controller="Patient" asp-action="Details" asp-route-id="@p.Id" class="btn btn-primary">
+                        Details
+                    </a>
+                    <a asp-controller="Patient" asp-action="Update" asp-route-id="@p.Id" class="btn btn-secondary">
+                        Update
+                    </a>
+                    <a href="javascript:;" data-id="@p.Id" class="btn btn-danger js-delete">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(".js-delete").on("click", function () {
+            var btn = $(this);
+            var id = btn.data("id");
+            var isConfirmed = confirm("Are you sure you want to delete this patient?");
+
+            if (isConfirmed) {
+                $.ajax({
+                    url: '/Patient/Delete/' + id,
+                    type: 'GET',
+                    success: function (result) {
+                        btn.parents("tr").remove();
+                    },
+                    error: function () {
+                        alert("An error occurred while trying to delete the patient.");
+                    }
+                });
+            }
+        });
+    </script>
+}

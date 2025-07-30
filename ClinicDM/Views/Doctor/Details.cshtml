@@ -1,0 +1,22 @@
+﻿@model ClinicDM.Models.Doctor
+
+<h4>Doctor Details</h4>
+
+<dl class="row">
+    <dt class="col-sm-2">Id</dt>
+    <dd class="col-sm-10">@Model.Id</dd>
+
+    <dt class="col-sm-2">Full Name</dt>
+    <dd class="col-sm-10">@Model.FullName</dd>
+
+    <dt class="col-sm-2">Specialty</dt>
+    <dd class="col-sm-10">@Model.Specialty</dd>
+
+    <dt class="col-sm-2">Email</dt>
+    <dd class="col-sm-10">@Model.Email</dd>
+
+    <dt class="col-sm-2">Phone Number</dt>
+    <dd class="col-sm-10">@Model.PhoneNumber</dd>
+</dl>
+
+<a asp-controller="Doctor" asp-action="Index" class="btn btn-secondary">Back to List</a>
