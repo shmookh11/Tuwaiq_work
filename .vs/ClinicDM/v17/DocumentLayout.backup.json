@@ -7,16 +7,67 @@
       "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\views\\auth\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\views\\auth\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\services\\anotherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\services\\anotherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\helpers\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\helpers\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\models\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\models\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\viewmodels\\usercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\viewmodels\\usercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\views\\auth\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\views\\auth\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\helpers\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,18 +76,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\viewmodels\\usercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\viewmodels\\usercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|c:\\users\\shmoo\\source\\repos\\clinicdm\\clinicdm\\models\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED7818F-F22A-45FE-A659-44089C357A89}|ClinicDM\\ClinicDM.csproj|solutionrelative:clinicdm\\models\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,32 +94,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "ClinicDM\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "ClinicDM\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicDM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicDM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T17:21:55.436Z",
+              "WhenOpened": "2025-07-31T16:58:12.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\CreateUser.cshtml",
-              "RelativeDocumentMoniker": "ClinicDM\\Views\\Auth\\CreateUser.cshtml",
-              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\CreateUser.cshtml",
-              "RelativeToolTip": "ClinicDM\\Views\\Auth\\CreateUser.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\Users.cshtml",
+              "RelativeDocumentMoniker": "ClinicDM\\Views\\Auth\\Users.cshtml",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\Users.cshtml",
+              "RelativeToolTip": "ClinicDM\\Views\\Auth\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T17:09:11.42Z",
+              "WhenOpened": "2025-07-31T16:57:09.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ClinicDM\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:49:58.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UserCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\ViewModels\\UserCreateVM.cs",
               "RelativeDocumentMoniker": "ClinicDM\\ViewModels\\UserCreateVM.cs",
@@ -93,7 +145,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "AnotherService.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Services\\AnotherService.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Services\\AnotherService.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Services\\AnotherService.cs",
+              "RelativeToolTip": "ClinicDM\\Services\\AnotherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:41:46.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "ClinicDM\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv4YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:12:54.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Services\\PatientService.cs",
+              "RelativeToolTip": "ClinicDM\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:41:44.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "ClinicDM\\Models\\AppUser.cs",
@@ -106,7 +197,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\Patient.cs",
+              "RelativeToolTip": "ClinicDM\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:50:16.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\Appointment.cs",
+              "RelativeToolTip": "ClinicDM\\Models\\Appointment.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:50:42.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppRoles.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Helpers\\AppRoles.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Helpers\\AppRoles.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Helpers\\AppRoles.cs",
+              "RelativeToolTip": "ClinicDM\\Helpers\\AppRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:50:48.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "ClinicDM\\Views\\Auth\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\CreateUser.cshtml",
+              "RelativeToolTip": "ClinicDM\\Views\\Auth\\CreateUser.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T17:09:11.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClinicContext.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\ClinicContext.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Models\\ClinicContext.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\ClinicContext.cs",
+              "RelativeToolTip": "ClinicDM\\Models\\ClinicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:06:30.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\Constants.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Models\\Constants.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\Constants.cs",
+              "RelativeToolTip": "ClinicDM\\Models\\Constants.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:40:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAYVAAAAAAAAAAAawA0VAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-31T16:43:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ClinicDM\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ClinicDM\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T17:21:55.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicDM\\Program.cs",
+              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Program.cs",
+              "RelativeToolTip": "ClinicDM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:14:59.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "AdminSeeder.cs",
               "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Helpers\\AdminSeeder.cs",
               "RelativeDocumentMoniker": "ClinicDM\\Helpers\\AdminSeeder.cs",
@@ -114,38 +322,11 @@
               "RelativeToolTip": "ClinicDM\\Helpers\\AdminSeeder.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T16:13:03.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T16:13:03.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ClinicDM\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ClinicDM\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T16:12:54.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Program.cs",
-              "RelativeDocumentMoniker": "ClinicDM\\Program.cs",
-              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Program.cs",
-              "RelativeToolTip": "ClinicDM\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvzcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T17:14:59.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ClinicDM\\Views\\Shared\\_LoginPartial.cshtml",
@@ -153,21 +334,7 @@
               "RelativeToolTip": "ClinicDM\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-30T17:10:15.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClinicContext.cs",
-              "DocumentMoniker": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\ClinicContext.cs",
-              "RelativeDocumentMoniker": "ClinicDM\\Models\\ClinicContext.cs",
-              "ToolTip": "C:\\Users\\shmoo\\source\\repos\\ClinicDM\\ClinicDM\\Models\\ClinicContext.cs",
-              "RelativeToolTip": "ClinicDM\\Models\\ClinicContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T17:06:30.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T17:10:15.911Z"
             }
           ]
         },

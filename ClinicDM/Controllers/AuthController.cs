@@ -18,10 +18,11 @@ namespace ClinicDM.Controllers
             this.signInManager = signInManager;
         }
 
-
-        public IActionResult Index()
+        [Authorize(Roles = "Admin")]
+        public IActionResult Users()
         {
-            return View();
+            var users = userManager.Users.ToList();
+            return View(users);
         }
 
         public IActionResult Login(string? returnUrl)
@@ -126,6 +127,9 @@ namespace ClinicDM.Controllers
 
             return RedirectToAction(nameof(CreateUser));
         }
+
+
+
 
     }
 }

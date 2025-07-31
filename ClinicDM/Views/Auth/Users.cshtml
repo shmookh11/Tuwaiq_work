@@ -1,0 +1,40 @@
+﻿@model List<AppUser>
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col"></th>
+            <th scope="col">Email</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model) {
+            <tr>
+                <td>
+                    @if (p.ProfilePicture != null && p.ProfilePicture.Length > 0)
+                    {
+                        <img src="data:image;base64,@Convert.ToBase64String(p.ProfilePicture)" class="img-thumbnail" width="50" style="border-radius: 50%">
+                    }
+                </td>
+                <td>@p.Email</td>
+                <td>
+                    <a asp-controller="Patient" asp-action="Details" asp-route-id="@p.Id" class="btn btn-primary">
+                        Details
+                    </a>
+                    <a asp-controller="Patient" asp-action="Update" asp-route-id="@p.Id" class="btn btn-secondary">
+                        Update
+                    </a>
+                    <a href="javascript:;" data-id="@p.Id" class="btn btn-danger js-delete">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

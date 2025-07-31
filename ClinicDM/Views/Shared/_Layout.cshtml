@@ -36,6 +36,13 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" href="/Doctor/Index">Doctors</a>
                         </li>
+                        @if (User.IsInRole(AppRoles.Admin.ToString()))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Auth" asp-action="Users">Users</a>
+                            </li>
+                        }
+                    </ul>
 
 
                     </ul>

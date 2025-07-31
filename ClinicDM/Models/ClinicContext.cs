@@ -27,12 +27,11 @@ namespace EFCore.ClinicModels
         {
             base.OnModelCreating(modelBuilder);
 
-            // تعيين القيمة الافتراضية لتاريخ إنشاء الموعد
             modelBuilder.Entity<Appointment>()
                 .Property(x => x.CreationDate)
                 .HasDefaultValueSql("GetDate()");
 
-            // إضافة بيانات المرضى (Patients)
+            
             modelBuilder.Entity<Patient>().HasData(
                 new Patient
                 {
@@ -46,7 +45,7 @@ namespace EFCore.ClinicModels
                 }
             );
 
-            // إضافة بيانات الأطباء (Doctors)
+            
             modelBuilder.Entity<Doctor>().HasData(
                 new Doctor
                 {
@@ -86,7 +85,6 @@ namespace EFCore.ClinicModels
                 }
             );
 
-            // تغيير أسماء جداول الهوية Identity
             modelBuilder.Entity<AppUser>(b => b.ToTable("Users"));
             modelBuilder.Entity<IdentityRole>(b => b.ToTable("Roles"));
             modelBuilder.Entity<IdentityRoleClaim<string>>(b => b.ToTable("RoleClaims"));
@@ -95,7 +93,6 @@ namespace EFCore.ClinicModels
             modelBuilder.Entity<IdentityUserToken<string>>(b => b.ToTable("UserTokens"));
             modelBuilder.Entity<IdentityUserLogin<string>>(b => b.ToTable("UserLogins"));
 
-            // بيانات الأدوار Roles
             modelBuilder.Entity<IdentityRole>().HasData(
                 new IdentityRole
                 {
