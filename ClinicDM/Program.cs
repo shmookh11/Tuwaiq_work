@@ -1,4 +1,5 @@
 using ClinicDM.Helpers;
+using ClinicDM.Models;
 using ClinicDM.Services;
 using EFCore.ClinicModels;
 using Microsoft.AspNetCore.Identity;
@@ -10,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 var connString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<ClinicContext>(options => options.UseSqlServer(connString));
 
-builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+builder.Services.AddIdentity<AppUser, IdentityRole>()
     .AddEntityFrameworkStores<ClinicContext>()
     .AddDefaultTokenProviders();
 builder.Services.ConfigureApplicationCookie(options => {

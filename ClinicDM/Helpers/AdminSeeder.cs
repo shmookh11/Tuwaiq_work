@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using ClinicDM.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace ClinicDM.Helpers
 {
@@ -8,7 +9,7 @@ namespace ClinicDM.Helpers
         public static async Task CreateAdminUser(WebApplication app)
         {
             var scope = app.Services.CreateScope();
-            var userManager = scope.ServiceProvider.GetRequiredService<UserManager<IdentityUser>>();
+            var userManager = scope.ServiceProvider.GetRequiredService<UserManager<AppUser>>();
 
             var adminEmail = "admin@clinic.com";
             var adminPassword = "Admin@123456";
@@ -16,7 +17,7 @@ namespace ClinicDM.Helpers
             var admin = await userManager.FindByEmailAsync(adminEmail);
             if (admin == null)
             {
-                admin = new IdentityUser
+                admin = new AppUser
                 {
                     UserName = adminEmail,
                     Email = adminEmail,

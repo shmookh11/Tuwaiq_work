@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace EFCore.ClinicModels
 {
-    public class ClinicContext : IdentityDbContext<IdentityUser>
+    public class ClinicContext : IdentityDbContext<AppUser>
     {
 
         public DbSet<Doctor> Doctors { get; set; } = null!;
@@ -87,7 +87,7 @@ namespace EFCore.ClinicModels
             );
 
             // تغيير أسماء جداول الهوية Identity
-            modelBuilder.Entity<IdentityUser>(b => b.ToTable("Users"));
+            modelBuilder.Entity<AppUser>(b => b.ToTable("Users"));
             modelBuilder.Entity<IdentityRole>(b => b.ToTable("Roles"));
             modelBuilder.Entity<IdentityRoleClaim<string>>(b => b.ToTable("RoleClaims"));
             modelBuilder.Entity<IdentityUserClaim<string>>(b => b.ToTable("UserClaims"));
