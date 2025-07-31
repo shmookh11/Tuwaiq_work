@@ -1,0 +1,39 @@
+﻿@model List<AppUser>
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h2>Users</h2>
+
+<form class="mb-3">
+    <input name="search" class="form-control" placeholder="Search by email" />
+</form>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Picture</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>
+                    @if (u.ProfilePicture != null)
+                    {
+                        <img src="data:image;base64,@Convert.ToBase64String(u.ProfilePicture)" width="50" style="border-radius:50%;" />
+                    }
+                </td>
+                <td>@u.Email</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@u.Id" class="btn btn-info">Details</a>
+                    <a asp-action="Update" asp-route-id="@u.Id" class="btn btn-warning">Update</a>
+                    <a asp-action="Delete" asp-route-id="@u.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

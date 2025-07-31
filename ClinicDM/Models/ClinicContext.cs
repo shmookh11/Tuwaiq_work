@@ -18,6 +18,7 @@ namespace EFCore.ClinicModels
         public DbSet<Patient> Patients { get; set; } = null!;
         public DbSet<Appointment> Appointments { get; set; } = null!;
 
+        public DbSet<AppUser> AppUsers { get; set; }
 
 
 
